@@ -1,10 +1,12 @@
 <?xml version="1.0"?>
 <update>
-    <build>1</build>
-    <buildname>0.4-pr1</buildname>
-    <date>11.11.23</date>
-    <relnotes>
-    - я не записал
-    </relnotes>
+     <build>1</build>
+     <buildname>0.4-pr1</buildname>
+     <date>11.11.23</date>
+     <relnotes>
+         - измнение 1
+         - очень умное изменение которое проверяет макс длину текста
+         - а
+     </relnotes>
     <link>https://github.com/atarwn/altbeta-launcher/releases/tag/0.4-pr1</link>
 </update>
