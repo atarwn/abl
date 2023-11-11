@@ -1,8 +1,10 @@
 <?xml version="1.0"?>
 <update>
     <build>1</build>
-    <date>111123</date>
+    <buildname>0.4-pr1</buildname>
+    <date>11.11.23</date>
     <relnotes>
     - я не записал
     </relnotes>
+    <link>https://github.com/atarwn/altbeta-launcher/releases/tag/0.4-pr1</link>
 </update>
