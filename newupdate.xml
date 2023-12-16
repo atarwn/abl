@@ -1,19 +1,13 @@
 <?xml version="1.0"?>
 <update>
-     <build>4</build>
-     <buildname>0.4-pr2</buildname>
-     <date>11.11.23</date>
+     <build>5</build>
+     <buildname>0.4-pr3</buildname>
+     <date>16.12.2023</date>
      <relnotes>
-          - омагад зис фаил из чангед
-          - очень умное изменение которое проверяет макс длину текст
-          - 123456789123456789123456789123456789123456789123456789
-          - билд 4
-          - строка 5
-          - строка 6
-          - строка 7
-          - строка 8
-          - строка 9
-          - строка 10
+          - Исправлено куча багов в лаунчере
+          - Возможно добавлены новые баги
+          - Теперь автообновление можно выключить, но нельзя
+          включить (в настройках)
      </relnotes>
-    <link>https://github.com/atarwn/altbeta-launcher/releases/tag/0.4-pr1</link>
+    <link>https://github.com/atarwn/altbeta-launcher/releases/tag/0.4-pr3</link>
 </update>
